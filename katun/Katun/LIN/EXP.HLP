@@ -1,0 +1,21 @@
+
+          EXPORTACION DE NOTAS
+
+     El objetivo  es exportar el  conjunto  de
+ notas resultantes de una selecci¢n. Para ello 
+ se presenta  una  ventana de di logo donde se
+ elige el destino de la transferencia, pudien-
+ do ser  Impresora o Archivo. A este £ltimo se
+ debe asignar un  nombre ya que de no  hacerlo
+ el  sistema  le  asignar   por  d e f a u l t 
+ 'Salida.txt'.
+ 
+     Los  botones de aceptar y cancelar sirven
+ para  continuar  la  exportaci¢n o cancelarla
+ respectivamente.
+    
+    Esta  opci¢n se activa tambi‚n con la fun-
+ ci¢n F7.
+
+    Presione la tecla <ESC>  para  regresar  al
+ men£ principal.

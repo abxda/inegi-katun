@@ -1,0 +1,21 @@
+        LISTA DE CONJUNTOS SELECCIONADOS
+     Contiene  la  relaci¢n  de  los  conjuntos
+ formados a trav‚s de la  selecci¢n de palabra,
+ sector,  declarante,  peri¢dico o  fecha  y la
+ operaci¢n  previamente  indicada. Contiene las
+ columnas de:
+ Conjunto  : Muestra la palabra  o criterio  de
+             b£squeda que gener¢ el conjunto.
+     Frec. : N£mero de notas que corresponden a
+             la palabra o criterio utilizado.
+    Resul. : Indica el total de notas resultan-
+             tes de la operaci¢n en curso.
+       Op. : Representa el  operador que denota
+             la operaci¢n activada.
+     Las dos  opciones  que se  presentan en la 
+ parte inferior de este bot¢n, permiten limpiar  
+ la lista de  conjuntos formados o el £ltimo de 
+ estos en la relaci¢n oprimiendo las teclas <B>  
+ ¢  <SURP> respectivamente. 
+     Presione  la tecla <ESC>  para regresar al
+ men£ principal.
