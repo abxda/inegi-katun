@@ -21,7 +21,7 @@ De las siguientes fuentes:
 
 COBERTURA TEMATICA
 
-La Base de Datos Hemerográficos en permite consultar información referente a:ç
+La Base de Datos Hemerográficos en permite consultar información referente a:
 
      - INEGI
        . Presidencia                   . Datos de Inflación
